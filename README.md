@@ -5,8 +5,9 @@ Rebuild Python fundamentals using the 80/20 principle before diving deeper into 
 
 ## Structure
 - Day 1: Data manipulation mastery
-- Day 2: Writing ML-ready code
-- Day 3: Advanced Python mechanics
+- Day 2: Working on weak links
+- Day 3: Improving Algorithmic THinking
+- Day 4: Writing clean ML Code
 
 ## Progress Log
-Day 1 – In Progress
+Day 3 – In Progress
